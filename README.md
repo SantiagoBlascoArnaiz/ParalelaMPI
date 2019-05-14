@@ -1,2 +1,2 @@
 # ParalelaMPI
-Paralelización mediante MPI de un código simulador de incendios.
+Paralelización mediante MPI de un código simulador de incendios. ReadPDF.
